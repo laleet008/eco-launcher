@@ -9,7 +9,7 @@ const Features = () => {
     <div className="bg-[#26331A] w-full">
       <div className="md:mx-40 py-16 mx-10">
         <div className="flex justify-center align-center">
-          <h1 className="md:text-4xl text-2xl uppercase text-neutral-400 font-bold ">
+          <h1 className="md:text-5xl text-3xl uppercase text-neutral-300 font-bold ">
             We Offer
           </h1>
         </div>
