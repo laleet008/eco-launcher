@@ -16,7 +16,7 @@ const Hero = () => {
           <p className="capitalize md:text-3xl text-xl text-[#98b66e] ">
             protect the world by keeping your actions ecological
           </p>
-          <button className="border hover:scale(1.2) border-green-600 bg-transparent py-2 md:px-6 rounded-2xl text-[#98b66e]">
+          <button className="border hover:bg-green-700 hover:text-neutral-300 border-green-800 bg-transparent py-2 md:px-6 rounded-2xl text-[#98b66e]">
             Get Quickly
           </button>
         </div>

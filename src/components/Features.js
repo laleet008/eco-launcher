@@ -13,8 +13,8 @@ const Features = () => {
             We Offer
           </h1>
         </div>
-        <div className=" md:mt-24 mt-5">
-          <div className="flex gap-60 ">
+        <div className=" md:mt-24 mt-5 font-semibold">
+          <div className="flex gap-60 justify-center">
             <div className="md:block hidden">
               <img
                 src="assets/battery.png"
@@ -37,7 +37,7 @@ const Features = () => {
               </p>
             </div>
           </div>
-          <div className="flex md:mt-20 mt-10 gap-60 ">
+          <div className="flex md:mt-20 mt-10 gap-60 justify-center ">
             <div className="md:w-1/2  flex flex-col  justify-center align-center">
               <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-3">
                 <MdDarkMode className="md:text-4xl text-neutral-400  text-3xl mt-1" />
@@ -61,7 +61,7 @@ const Features = () => {
             </div>
           </div>
 
-          <div className="flex gap-60 md:mt-20 mt-10">
+          <div className="flex gap-60 md:mt-20 mt-10 justify-center">
             <div className="md:block hidden">
               <img
                 src="assets/search_feature.png"
@@ -85,7 +85,7 @@ const Features = () => {
             </div>
           </div>
 
-          <div className="flex  md:mt-20 mt-10 gap-60 ">
+          <div className="flex  md:mt-20 mt-10 gap-60 justify-center">
             <div className="md:w-1/2 flex flex-col  justify-center align-center">
               <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-3">
                 <FcTodoList className="md:text-4xl text-3xl text-neutral-400 mt-1" />
