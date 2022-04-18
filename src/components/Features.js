@@ -24,7 +24,7 @@ const Features = () => {
             </div>
             <div className="md:w-1/2 flex flex-col  justify-center align-center">
               <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-4">
-                <RiBatteryChargeFill className="md:text-5xl text-3xl mt-1" />
+                <RiBatteryChargeFill className="md:text-5xl text-3xl" />
                 <p>Battery Optimization</p>
               </div>
               <p className="text-neutral-400 md:text-lg md:mt-6 mt-3">
@@ -39,8 +39,8 @@ const Features = () => {
           </div>
           <div className="flex md:mt-20 mt-10 gap-60 justify-center ">
             <div className="md:w-1/2  flex flex-col  justify-center align-center">
-              <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-3">
-                <MdDarkMode className="md:text-4xl text-neutral-400  text-3xl mt-1" />
+              <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-3 items-center">
+                <MdDarkMode className="md:text-4xl text-neutral-400  text-3xl" />
                 <p>Dark Mode</p>
               </div>
               <p className="text-neutral-400 text-lg md:mt-6 mt-3">
@@ -70,8 +70,8 @@ const Features = () => {
               />
             </div>
             <div className="md:w-1/2 flex flex-col  justify-center align-center">
-              <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-4">
-                <FaSearch className="md:text-5xl text-3xl" />
+              <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex  items-center gap-4">
+                <FaSearch className="md:text-4xl text-3xl" />
                 <p>Fast Searching</p>
               </div>
               <p className="text-neutral-400 text-lg md:mt-6 mt-3">
@@ -87,8 +87,8 @@ const Features = () => {
 
           <div className="flex  md:mt-20 mt-10 gap-60 justify-center">
             <div className="md:w-1/2 flex flex-col  justify-center align-center">
-              <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-3">
-                <FcTodoList className="md:text-4xl text-3xl text-neutral-400 mt-1" />
+              <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex items-center gap-3">
+                <FcTodoList className="md:text-4xl text-3xl text-neutral-400" />
                 <p>Include Todo</p>
               </div>
               <p className="text-neutral-400 text-lg md:mt-6 mt-3">
