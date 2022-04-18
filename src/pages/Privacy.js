@@ -46,7 +46,7 @@ const Privacy = () => {
             </a>
             , and any other specific agreement you have with us (collectively,
             the “Agreement”) govern your access to and use of the Website and
-            the Emali Media. <br />
+            the Imali Media. <br />
             The terms and definitions in the End User Agreement shall apply to
             this Privacy Policy unless stated otherwise.
             <br />
@@ -58,7 +58,7 @@ const Privacy = () => {
             information you expect or elect to process or have processed via the
             Services, eg., “special categories” under the GDPR), your acceptance
             of this Privacy Policy and our End User License Agreement available
-            at Emali Media, which is incorporated herein by reference, will be
+            at Imali Media, which is incorporated herein by reference, will be
             deemed as your consent to the processing of your personal
             information for all purposes detailed in this Privacy Policy. If you
             wish to revoke such content, please contact us at
@@ -185,7 +185,7 @@ const Privacy = () => {
             we will process your request subject to verification of your
             identity. To the extent we have not addressed your concerns, you
             also have the right to file a complaint with the relevant
-            supervisory authority (e.g. of your country or domicile).
+            supervisory authority Israel.
           </p>
           <p className="mt-4 md:text-xl  text-lg text-neutral-300 ">
             We act as controllers and process personal data on the basis of

@@ -264,11 +264,11 @@ const TermPage = () => {
             conflict of law provision or rule. Any legal suit, action, or
             proceeding arising out of, or related to, these Terms of Use or the
             Website and the Services shall be instituted exclusively in the
-            courts of this country although we retain the right to bring any
-            suit, action, or proceeding against you for breach of these Terms of
-            Use in your country of residence or any other relevant country. You
-            waive any and all objections to the exercise of jurisdiction over
-            you by such courts and to the venue in such courts.
+            courts of Israel although we retain the right to bring any suit,
+            action, or proceeding against you for breach of these Terms of Use
+            in Israel of residence or any other relevant country. You waive any
+            and all objections to the exercise of jurisdiction over you by such
+            courts and to the venue in such courts.
           </p>
           <h2 className="md:text-2xl text-xl mt-16 font-semibold">
             Arbitration
@@ -278,7 +278,7 @@ const TermPage = () => {
             disputes arising from the use of these Terms of Use or the Website
             and the Services, including disputes arising from or concerning
             their interpretation, violation, invalidity, non-performance, or
-            termination, to final and binding arbitration under this country.
+            termination, to final and binding arbitration under Israel.
           </p>
 
           <h2 className="md:text-2xl text-xl mt-16 font-semibold">

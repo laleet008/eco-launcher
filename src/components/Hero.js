@@ -8,7 +8,7 @@ const Hero = () => {
           <div className="flex md:gap-6 gap-4 items-center">
             <img
               src="assets/eco-logo.png"
-              alt=""
+              alt="hero logo"
               className="md:h-16 md:w-16 h-12 w-12"
             />
             <h1 className="hero-heading md:text-5xl text-3xl">ECO Launcher.</h1>
@@ -16,7 +16,7 @@ const Hero = () => {
           <p className="capitalize md:text-3xl text-xl text-[#98b66e] ">
             protect the world by keeping your actions ecological
           </p>
-          <button className="border border-green-600 bg-transparent py-2 md:px-6 rounded-2xl text-[#98b66e]">
+          <button className="border hover:scale(1.2) border-green-600 bg-transparent py-2 md:px-6 rounded-2xl text-[#98b66e]">
             Get Quickly
           </button>
         </div>

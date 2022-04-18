@@ -15,7 +15,7 @@ const Footer = () => {
         </ul>
         <p>
           <p className="text-lg flex items-center gap-2 text-[#98B66E] cursor-pointer">
-            <span className="text-2xl mt-1">&copy;</span>copyright 2022 Imali
+            <span className="text-2xl mt-1">&copy;</span>Copyright 2022 Imali
             media, All rights reserved.
           </p>
         </p>

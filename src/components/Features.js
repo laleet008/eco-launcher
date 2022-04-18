@@ -13,7 +13,7 @@ const Features = () => {
             We Offer
           </h1>
         </div>
-        <div className="md:px-40 md:mt-24 mt-5">
+        <div className="md:px-36 md:mt-24 mt-5">
           <div className="flex gap-40 ">
             <div className="md:block hidden">
               <img
@@ -56,7 +56,7 @@ const Features = () => {
               <img
                 src="assets/dark_mode.png"
                 className="md:h-[400px] md:w-[200px]"
-                alt="battery optimization"
+                alt="dark mode"
               />
             </div>
           </div>
@@ -66,7 +66,7 @@ const Features = () => {
               <img
                 src="assets/search_feature.png"
                 className="md:h-[400px] md:w-[200px]"
-                alt="battery optimization"
+                alt="Fast Searching"
               />
             </div>
             <div className="md:w-1/2 flex flex-col  justify-center align-center">
@@ -104,7 +104,7 @@ const Features = () => {
               <img
                 src="assets/tasks.png"
                 className="md:h-[400px] md:w-[200px]"
-                alt="battery optimization"
+                alt="Todos "
               />
             </div>
           </div>
