@@ -7,14 +7,14 @@ import { FaSearch } from "react-icons/fa";
 const Features = () => {
   return (
     <div className="bg-[#26331A] w-full">
-      <div className="md:mx-36 py-16 mx-10">
+      <div className="md:mx-40 py-16 mx-10">
         <div className="flex justify-center align-center">
           <h1 className="md:text-4xl text-2xl uppercase text-neutral-400 font-bold ">
             We Offer
           </h1>
         </div>
-        <div className="md:px-36 md:mt-24 mt-5">
-          <div className="flex gap-40 ">
+        <div className=" md:mt-24 mt-5">
+          <div className="flex gap-60 ">
             <div className="md:block hidden">
               <img
                 src="assets/battery.png"
@@ -37,7 +37,7 @@ const Features = () => {
               </p>
             </div>
           </div>
-          <div className="flex md:mt-20 mt-10 gap-40 ">
+          <div className="flex md:mt-20 mt-10 gap-60 ">
             <div className="md:w-1/2  flex flex-col  justify-center align-center">
               <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-3">
                 <MdDarkMode className="md:text-4xl text-neutral-400  text-3xl mt-1" />
@@ -61,7 +61,7 @@ const Features = () => {
             </div>
           </div>
 
-          <div className="flex gap-40 md:mt-20 mt-10">
+          <div className="flex gap-60 md:mt-20 mt-10">
             <div className="md:block hidden">
               <img
                 src="assets/search_feature.png"
@@ -85,7 +85,7 @@ const Features = () => {
             </div>
           </div>
 
-          <div className="flex  md:mt-20 mt-10 gap-40 ">
+          <div className="flex  md:mt-20 mt-10 gap-60 ">
             <div className="md:w-1/2 flex flex-col  justify-center align-center">
               <div className="text-neutral-300 md:text-4xl text-2xl font-bold flex gap-3">
                 <FcTodoList className="md:text-4xl text-3xl text-neutral-400 mt-1" />
