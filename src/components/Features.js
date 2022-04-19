@@ -28,12 +28,13 @@ const Features = () => {
                 <p>Battery Optimization</p>
               </div>
               <p className="text-neutral-400 md:text-lg md:mt-6 mt-3">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptate in molestias ut, ratione dolorem unde? Earum mollitia
-                tempore esse officiis qui provident maiores temporibus excepturi
-                maxime vero dicta sequi cupiditate inventore veritatis
-                exercitationem, molestias dignissimos praesentium nulla tempora
-                perspiciatis quaerat.
+                Battery life can be affected by various factors, such as device
+                settings, environment, and usage patterns. We offer lots of
+                features to reduce battery consumption. For instance, you can
+                enable the dark mode and disable the animations to enhance the
+                battery life of your smartphone. Also, the launcher app allows
+                users to disable app animations, popup menu, etc. It is very
+                lightweight so battery consumption is reduced.
               </p>
             </div>
           </div>
@@ -44,12 +45,13 @@ const Features = () => {
                 <p>Dark Mode</p>
               </div>
               <p className="text-neutral-400 text-lg md:mt-6 mt-3">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptate in molestias ut, ratione dolorem unde? Earum mollitia
-                tempore esse officiis qui provident maiores temporibus excepturi
-                maxime vero dicta sequi cupiditate inventore veritatis
-                exercitationem, molestias dignissimos praesentium nulla tempora
-                perspiciatis quaerat.
+                Dark mode is a display setting for user interfaces.It means
+                that, instead of the default dark text showing up against a
+                light screen (known as ‘light mode’), a light color text (white
+                or grey) is presented against a dark or black screen. Light
+                mode, however, is the default setting for most phones and apps.
+                Dark theme also helps you to use smartphone on low light to
+                adjust your eye comfort. It is a great way to save battery.
               </p>
             </div>
             <div className="md:block hidden">
@@ -75,12 +77,12 @@ const Features = () => {
                 <p>Fast Searching</p>
               </div>
               <p className="text-neutral-400 text-lg md:mt-6 mt-3">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptate in molestias ut, ratione dolorem unde? Earum mollitia
-                tempore esse officiis qui provident maiores temporibus excepturi
-                maxime vero dicta sequi cupiditate inventore veritatis
-                exercitationem, molestias dignissimos praesentium nulla tempora
-                perspiciatis quaerat.
+                Searching is a very important feature in any smartphone. It
+                saves your time. We offer fast searching features to make your
+                search or lookup faster. Typing two or three desired app or
+                feature, we suggest you matching results which will be helpful,
+                you don't need to type the whole thing. Well designed search bar
+                helps to lookup in faster way.
               </p>
             </div>
           </div>
@@ -92,12 +94,12 @@ const Features = () => {
                 <p>Include Todo</p>
               </div>
               <p className="text-neutral-400 text-lg md:mt-6 mt-3">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptate in molestias ut, ratione dolorem unde? Earum mollitia
-                tempore esse officiis qui provident maiores temporibus excepturi
-                maxime vero dicta sequi cupiditate inventore veritatis
-                exercitationem, molestias dignissimos praesentium nulla tempora
-                perspiciatis quaerat.
+                Todo's a feature that allows you to create a list of tasks and
+                to manage task in your own way. It increases the productivity,
+                helps to track your work in daily basis. The checkboxes helps to
+                mark the task as completed, and motivates to do another. If you
+                keeping it as memory it also be helpful to make list and
+                fulfilling it. It provides a sense of accomplishment.
               </p>
             </div>
             <div className="md:block hidden">
